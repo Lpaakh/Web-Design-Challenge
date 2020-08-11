@@ -38,46 +38,50 @@
 </head>
 
 <body>
-    <div class="container">
-    <h1>Summary: Latitude vs. Weather</h1>
-    </article>
-    <hr>
-    <img src="assets/images/temperaturemap.png" alt="Tempurature Map">
-        <p>This project examined the latitude versus four weather elements: cloudiness, humidity, temperature and wind speed. Data was pulled from the OpenWeatherMap API to collect information from varying city latitudes spanning the globe.</p>
-        <p>After gathering the data, Matplotlib was used to visualize the latitude versus the four prior mentioned weather elements. This website takes a look at the analysis, four weather elements versus latitude graphs with correlations and the source dataset that was used to form the analysis. </p>
-    
+    <div class="container mt-5">
+        <div class="row">
+            <article class="col-lg-7 single-post mt-5 no-gutters">
+                <h1>Summary: Latitude vs. Weather</h1>
+                <hr>
+                <div class="image-wrapper float-left pr-3 col-6">
+                    <img src="assets/images/temperaturemap.png" class="img-fluid" alt="Tempurature Map">
+                </div>
+                <div class="single-post-content-wrapper p-3">
+                    <p>This project examined the latitude versus four weather elements: cloudiness, humidity, temperature and wind speed. Data was pulled from the OpenWeatherMap API to collect information from varying city latitudes spanning the globe.</p>
+                    <p>After gathering the data, Matplotlib was used to visualize the latitude versus the four prior mentioned weather elements. This website takes a look at the analysis, four weather elements versus latitude graphs with correlations and the source dataset that was used to form the analysis. </p>
+                </div>
+            </article>
+            <article class="col-lg-5 single-post mt-5 no-gutters">
+                <h2>Visualizations</h2>
+                <hr>
+                <div class="row">
+                    <div class="col-md-6">
+                        <a href="cloudiness.html">
+                            <img src="assets/images/cloudymap.png" class="img-fluid" alt="Cloudy Map">
+                        </a>
+                    </div>
+                    <div class="col-md-6">
+                        <a href="humidity.html">
+                            <img src="assets/images/humiditymap.png" class="img-fluid" alt="Humidity Map">
+                        </a>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <a href="maxtemp.html">
+                            <img src="assets/images/temperaturemap.png" class="img-fluid" alt="Tempurature Map">
+                        </a>
+                    </div>
+                    <div class="col-md-6">
+                        <a href="wind_speed.html">
+                            <img src="assets/images/windmap.png" class="img-fluid" alt="Wind Map">
+                        </a>
+                    </div>
+                </div>
+            </article>
+        </div>
     </div>
-
-    <div class="container">
-        <h1>Visualizations</h1>
-    <a href="cloudiness.html">
-    <img src="assets/images/cloudymap.png" alt="Cloudy Map">
-    </a>
-    <p><em>Cloudy Map</em></p>
-    </article>
-    <hr>
-    <article>
-    <a href="humidity.html">
-    <img src="assets/images/humiditymap.png" alt="Humidity Map">
-    </a>
-    <p><em>Humidity Map</em></p>
-    </article>
-    <hr>
-    <article>
-      <a href="maxtemp.html">
-      <img src="assets/images/temperaturemap.png" alt="Tempurature Map">
-      </a>
-      <p><em>Temperature Map</em></p>
-    </article>
-    <hr>
-    <!-- an example using figure/ficaption -->
-    <figure>
-      <a href="wind_speed.html">
-      <img src="assets/images/windmap.png" alt="Wind Map">
-      </a>
-      <figcaption><em>Wind Map</em></figcaption>
-    </figure>
-    </div>
+</div>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
