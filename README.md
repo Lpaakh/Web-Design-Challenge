@@ -1,6 +1,6 @@
 ## Welcome to LPaakhMay's Web-Design-Challenge
 
-Click this [link](https://lpaakh.github.io/Web-Design-Challenge/landing.html) to view the website LPaakhMay created that explains and visualizes her analysis.
+Click this **[link](https://lpaakh.github.io/Web-Design-Challenge/landing.html)** to view the website LPaakhMay created that explains and visualizes her analysis.
 
 ### What is this?
 
