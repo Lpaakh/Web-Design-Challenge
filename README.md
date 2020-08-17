@@ -18,6 +18,6 @@ The link above takes the user to the landing page. The landing page gives a summ
 ### See more of LPaakhMay's work...
 At her [github](https://github.com/Lpaakh)!
 
-### Support or Contact
+### Support or Contact:
 
 Send her a message via [LinkedIn](https://www.linkedin.com/in/laura-p-may/)! ![Image](https://lpaakh.github.io/Web-Design-Challenge/IMG_0663.jpeg)
