@@ -1,37 +1,20 @@
-## Welcome to My Web-Design-Challenge
+## Welcome to LPaakhMay's Web-Design-Challenge
 
-You can use the [editor on GitHub](https://github.com/Lpaakh/Web-Design-Challenge/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Click this [link](https://lpaakh.github.io/Web-Design-Challenge/landing.html) to view the website I created that explains and visualizes LPaakhMay's analysis.
 
-Click this [link](https://lpaakh.github.io/Web-Design-Challenge/landing.html) to view the website I created to explain and visualize the analysis.
+### What is this?
 
-### Markdown
+This challenge was a homework assignment from my Data Science and Visualization boot camp course through the University of California San Diego extension program, Trilogy. I was taught how to work with html, css and bootstrap, and then applied the rhetoric taught in the course by following a list of website requirements on a deadline the week after it was taught.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### How to use:
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-```
-[Link](https://www.linkedin.com/in/laura-p-may/) ![Image](https://lpaakh.github.io/Web-Design-Challenge/IMG_0663.jpeg)
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lpaakh/Web-Design-Challenge/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The link above takes the user to the landing page. The landing page gives a summary of what was analyzed, how the data was collected and how the visualizations were created. One there the user will be presented with options:
+- Use the navigation bar to (from left to right) 
+    1. View plots for latitude vs. maximum temperature data, humidity, cloudiness or wind speed.
+    2. A comparison analysis of all weather aspects.
+    3. The full data set that was collected and used for the analysis.
+- Use the images under the Visualizations heading to go to one specific weather aspect's analysis.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Link](https://www.linkedin.com/in/laura-p-may/) ![Image](https://lpaakh.github.io/Web-Design-Challenge/IMG_0663.jpeg)
